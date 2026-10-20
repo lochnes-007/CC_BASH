@@ -1,3 +1,6 @@
 wc -w
 wc -w < ~/Downloads/cars.csv
 cat EOF
+Command for Last Executed Commands's Exit Ouptput : echo 127
+Command for Last Executed Commands's Exit Ouptput : echo dollarQues
+To Compare Values : [ 2==2 ]
