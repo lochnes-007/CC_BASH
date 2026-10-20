@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+FIRST_NAME=AYUSH
+LAST_NAME=THASALE
+
+echo Hello $FIRST_NAME $LAST_NAME
