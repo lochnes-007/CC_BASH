@@ -1,0 +1,3 @@
+wc -w
+wc -w < ~/Downloads/cars.csv
+cat EOF
